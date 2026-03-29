@@ -1,1 +1,1 @@
-# Netflix-Content-Intelligence-Recommendation-System
+# Netflix-Content-Intelligence-and-Recommendation-System
